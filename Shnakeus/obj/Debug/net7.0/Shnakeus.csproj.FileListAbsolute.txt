@@ -1,0 +1,14 @@
+/Users/aron/Documents/School/Shnakeus/Shnakeus/bin/Debug/net7.0/Shnakeus
+/Users/aron/Documents/School/Shnakeus/Shnakeus/bin/Debug/net7.0/Shnakeus.deps.json
+/Users/aron/Documents/School/Shnakeus/Shnakeus/bin/Debug/net7.0/Shnakeus.runtimeconfig.json
+/Users/aron/Documents/School/Shnakeus/Shnakeus/bin/Debug/net7.0/Shnakeus.dll
+/Users/aron/Documents/School/Shnakeus/Shnakeus/bin/Debug/net7.0/Shnakeus.pdb
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/Shnakeus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/Shnakeus.AssemblyInfoInputs.cache
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/Shnakeus.AssemblyInfo.cs
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/Shnakeus.csproj.CoreCompileInputs.cache
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/Shnakeus.dll
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/refint/Shnakeus.dll
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/Shnakeus.pdb
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/Shnakeus.genruntimeconfig.cache
+/Users/aron/Documents/School/Shnakeus/Shnakeus/obj/Debug/net7.0/ref/Shnakeus.dll
