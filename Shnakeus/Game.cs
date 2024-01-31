@@ -95,6 +95,10 @@ public class Game
     public void StartGame()
     {
         board.DrawBoard();
+        // added this part
+        Console.WriteLine("Drücken Sie eine beliebige Taste, um das Spiel zu beginnen");
+        // wait for the user to press any key
+        Console.ReadKey();
         GameLoop();
     }
     
