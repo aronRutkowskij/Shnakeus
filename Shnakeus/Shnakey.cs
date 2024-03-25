@@ -8,10 +8,10 @@ public class Shnakey
     public List<Positions>? Positions { get; set; }
     public void SetPositions(int startX, int startY)
     {
-        Positions.Add(new Positions(startX, startY-2));
-        Positions.Add(new Positions(startX, startY-1));
-        Positions.Add(new Positions(startX, startY));
-        Positions.Add(new Positions(startX, startY+1));
         Positions.Add(new Positions(startX, startY+2));
+        Positions.Add(new Positions(startX, startY+1));
+        Positions.Add(new Positions(startX, startY));
+        Positions.Add(new Positions(startX, startY-1));
+        Positions.Add(new Positions(startX, startY-2));
     }
 }

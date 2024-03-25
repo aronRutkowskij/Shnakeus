@@ -60,6 +60,7 @@ public class Game
             }
             SetNewPositions(); 
             CheckItemCollision();
+            CheckSelfCollision();
             board._shnakey = shnakey;
             board.DrawBoard();
             Thread.Sleep(500);
@@ -297,6 +298,19 @@ public class Game
                 Bait.Position = new Positions(r.Next(1, board.w), r.Next(1, board.h));
                 Console.WriteLine("You've cached bait");
             } 
+        }
+    }
+
+    public void CheckSelfCollision()
+    {
+        Positions head = new Positions(shnakey.Positions[0].X, shnakey.Positions[0].Y);
+        for (int i = 1; i < shnakey.Positions.Count; i++)
+        {
+            if (shnakey.Positions[i].X == head.X && shnakey.Positions[i].Y == head.Y)
+            {
+                shnakey.IsAlive = false;
+                return;
+            }
         }
     }
 }
